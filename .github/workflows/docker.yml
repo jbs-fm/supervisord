@@ -1,36 +1,3 @@
-
-Pull requests
-Issues
-Marketplace
-Explore
-@jbs-fm
-jbs-fm /
-enroute-docker-base
-Public
-
-2
-0
-
-    0
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-
-    Settings
-
-enroute-docker-base/.github/workflows/docker.yml
-@jbs-fm
-jbs-fm Update docker.yml
-Latest commit 697f55d on 2 Jul
-History
-1 contributor
-35 lines (33 sloc) 829 Bytes
 name: docker
 
 on:
